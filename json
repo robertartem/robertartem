@@ -1,0 +1,21 @@
+{
+  "name": "Default",
+  "timestamp": "2022",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://uploads-ssl.webflow.com/627876b6ff3f427c595ebf45/62787995cc3db46db1792bd6_looplogo-astrospaces.png",
+  "keywords": ["LOOP", "default", "list"],
+  "tokens": [
+    {
+      "address": "0x8488f2417FFdeA167B6d6ad620EDD33D8d294F30",
+      "chainId": 15551,
+      "name": "Wrapped LOOP",
+      "symbol": "WLOOP",
+      "decimals": 18,
+      "logoURI": "https://uploads-ssl.webflow.com/627876b6ff3f427c595ebf45/62787995cc3db46db1792bd6_looplogo-astrospaces.png"
+    }
+  ]
+}
